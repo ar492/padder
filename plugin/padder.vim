@@ -1,2 +1,2 @@
 
-nnoremap<leader> 99 :echo 'hello world'<cr>
+nnoremap <leader>99 :echo 'hello world'<cr>
